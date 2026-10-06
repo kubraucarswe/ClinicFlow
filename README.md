@@ -1,2 +1,1 @@
-# ClinicFlow
-A C# and SQL Server based healthcare appointment and management system.
+ClinicFlow, hastaların sağlık kuruluşlarındaki doktorları ve uygun randevu zamanlarını görüntüleyebilmesini, randevu oluşturabilmesini ve randevularını yönetebilmesini amaçlayan bir sağlık randevu ve yönetim sistemi projesidir.
